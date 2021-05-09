@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codemaze-cosmosdb", "codemaze-cosmosdb.csproj", "{03A989B2-FA17-42EB-AD7A-FED150ADB7EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03A989B2-FA17-42EB-AD7A-FED150ADB7EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A989B2-FA17-42EB-AD7A-FED150ADB7EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A989B2-FA17-42EB-AD7A-FED150ADB7EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A989B2-FA17-42EB-AD7A-FED150ADB7EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {865E682D-ABEA-426A-BB4E-D2BC9EFFBBA8}
+	EndGlobalSection
+EndGlobal
